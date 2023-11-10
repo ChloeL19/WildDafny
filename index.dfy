@@ -1,1 +1,1 @@
-include "../libraries/examples/Collections/Arrays/BinarySearch.dfy"
+include "libraries/examples/Collections/Arrays/BinarySearch.dfy"
