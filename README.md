@@ -13,7 +13,7 @@ To compile the modified Dafny compiler which will strip hints from Dafny files, 
 
 `dotnet build dafny/Source/Dafny.sln`
 
-To run the hint striper on a target file, run:
+To run the hint striper on all of the downloaded submodules (dafny repos), run:
 
-`dafny/Binaries/Dafny.exe target_file.dfy`
+`dafny/Binaries/Dafny.exe index.dfy`
 
